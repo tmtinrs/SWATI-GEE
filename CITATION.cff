@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this repository."
+title: "SWATI: Surface Water Availability-Temperature Index (Google Earth Engine implementation)"
+abstract: "Google Earth Engine implementation of the Surface Water Availability-Temperature Index (SWATI) for generating near-global monthly dryness-wetness maps at 1 km resolution from MODIS NDVI, NDLI, and LST."
+type: software
+authors:
+  - family-names: "Thai"
+    given-names: "Minh-Tin"
+    affiliation: "Center for Space and Remote Sensing Research, National Central University, Taoyuan, Taiwan"
+    email: "tmtinrs@gmail.com"
+  - family-names: "Liou"
+    given-names: "Yuei-An"
+    affiliation: "Center for Space and Remote Sensing Research, National Central University, Taoyuan, Taiwan"
+    email: "yueian@csrsr.ncu.edu.tw"
+repository-code: "https://github.com/tmtinrs/SWATI-GEE"
+license: MIT
+version: "1.0.0"
+date-released: "2026-07-16"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Thai"
+      given-names: "Minh-Tin"
+    - family-names: "Liou"
+      given-names: "Yuei-An"
+  title: "Surface Water Availability-Temperature Index (SWATI) for Global Drought Monitoring"
+  journal: "IEEE Transactions on Geoscience and Remote Sensing"
+  volume: 63
+  start: 1
+  end: 14
+  year: 2025
+  doi: "10.1109/tgrs.2025.3541287"
